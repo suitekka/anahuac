@@ -3,7 +3,7 @@
  - 1 uno
  - 2 dos
  - 3 tres
- - 4
+ - 4 cuatro
 
     def fetch_commenters(issue_url, api_key):
         api_url = issue_url.replace('github.com', 'api.github.com/repos') + '/comments'

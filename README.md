@@ -1,7 +1,7 @@
 **Hola estamos en la clas de anajuahc** 
 
  - 1 uno
- - 2
+ - 2 dos
  - 3
  - 4
 

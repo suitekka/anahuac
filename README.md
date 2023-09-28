@@ -2,7 +2,7 @@
 
  - 1 uno
  - 2 dos
- - 3
+ - 3 tres
  - 4
 
     def fetch_commenters(issue_url, api_key):
